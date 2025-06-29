@@ -1,0 +1,302 @@
+Drafts
+
+List of flags: 
+https://en.wikipedia.org/wiki/List_of_country_subdivision_flags_in_Europe#Russia
+
+ISO region codes:
+https://www.iso.org/obp/ui/#iso:code:3166:RU
+
+Another (more readable) source of region codes (Russian Wikipedia):
+https://ru.wikipedia.org/wiki/ISO_3166-2:RU
+
+𜸛𜸟𜸤𜸜 𜸜  𜸛𜸟𜸤𜸛𜸟𜸥𜸚𜸟𜸤𜸞𜸠𜸥𜸚𜸟𜸤𜸝𜸢𜸜
+𜸨𜸟𜸷𜸫𜸳𜸻  𜸨𜸟𜸷𜸨𜸟 𜸩 𜸧 𜸩 𜸩 𜸩𜸩𜸫𜸹
+𜸽𜸟𜹃 𜸼   𜸼 𜸼𜸽𜸟𜸥𜸾𜸟𜹄𜸞𜹀𜸥𜸾𜸟𜹃𜸼 𜸼
+
+> ADMINISTRATIVE REGIONS (OBLASTS) <
+RU-AMU    https://commons.wikimedia.org/wiki/File:Flag_of_Amur_Oblast.svg
+RU-ARK    https://commons.wikimedia.org/wiki/File:Flag_of_Arkhangelsk_Oblast.svg
+RU-AST    https://commons.wikimedia.org/wiki/File:Flag_of_Astrakhan_Oblast.svg
+RU-BEL    https://commons.wikimedia.org/wiki/File:Flag_of_Belgorod_Oblast.svg
+RU-BRY    https://commons.wikimedia.org/wiki/File:Flag_of_Bryansk_Oblast.svg
+RU-VLA    https://commons.wikimedia.org/wiki/File:Flag_of_Vladimirskaya_Oblast.svg
+RU-VGG    https://commons.wikimedia.org/wiki/File:Flag_of_Volgograd_Oblast.svg
+RU-VLG    https://commons.wikimedia.org/wiki/File:Flag_of_Vologda_oblast.svg
+RU-VOR    https://commons.wikimedia.org/wiki/File:Flag_of_Voronezh_Oblast_(large).svg	?????
+RU-IVA    https://commons.wikimedia.org/wiki/File:Flag_of_Ivanovo_Oblast.svg
+RU-IRK    https://commons.wikimedia.org/wiki/File:Flag_of_Irkutsk_Oblast.svg
+RU-KGD    https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg
+RU-KLU    https://commons.wikimedia.org/wiki/File:Flag_of_Kaluga_Oblast.svg
+RU-KEM    https://commons.wikimedia.org/wiki/File:Flag_of_Kemerovo_Oblast.svg
+RU-KIR    https://commons.wikimedia.org/wiki/File:Flag_of_Kirov_Oblast.svg
+RU-KOS    https://commons.wikimedia.org/wiki/File:Flag_of_Kostroma_Oblast.svg  
+RU-KGN    https://commons.wikimedia.org/wiki/File:Flag_of_Kurgan_Oblast.svg  
+RU-KRS    https://commons.wikimedia.org/wiki/File:Flag_of_Kursk_Oblast_(large_fix).svg  
+RU-LEN    https://commons.wikimedia.org/wiki/File:Flag_of_Leningrad_Oblast.svg  
+RU-LIP    https://commons.wikimedia.org/wiki/File:Flag_of_Lipetsk_Oblast.svg  
+RU-MAG    https://commons.wikimedia.org/wiki/File:Flag_of_Magadan_Oblast.svg  
+RU-MOS    https://commons.wikimedia.org/wiki/File:Flag_of_Moscow.svg  
+RU-MUR    https://commons.wikimedia.org/wiki/File:Flag_of_Murmansk_Oblast.svg  
+RU-NIZ    https://commons.wikimedia.org/wiki/File:Flag_of_Nizhny_Novgorod_Region.svg	CC BY-SA  
+RU-NGR    https://commons.wikimedia.org/wiki/File:Flag_of_Novgorod_Oblast.svg
+RU-NVS    https://commons.wikimedia.org/wiki/File:Flag_of_Novosibirsk_Oblast.svg  
+RU-OMS    https://commons.wikimedia.org/wiki/File:Flag_of_Omsk_Oblast.svg  
+RU-ORE    https://commons.wikimedia.org/wiki/File:Flag_of_Orenburg_Oblast.svg  
+RU-ORL    https://commons.wikimedia.org/wiki/File:Flag_of_Oryol_Oblast.svg  
+RU-PNZ    https://commons.wikimedia.org/wiki/File:Flag_of_Penza_Oblast.svg  
+RU-PSK    https://commons.wikimedia.org/wiki/File:Flag_of_Pskov_Oblast.svg  
+RU-ROS    https://commons.wikimedia.org/wiki/File:Flag_of_Rostov_Oblast.svg  
+RU-RYA    https://commons.wikimedia.org/wiki/File:Flag_of_Ryazan_Oblast.svg  
+RU-SAM    https://commons.wikimedia.org/wiki/File:Flag_of_Samara_Oblast.svg  
+RU-SAR    https://commons.wikimedia.org/wiki/File:Flag_of_Saratov_Oblast.svg  
+RU-SAK    https://commons.wikimedia.org/wiki/File:Flag_of_Sakhalin_Oblast.svg  
+RU-SVE    https://commons.wikimedia.org/wiki/File:Flag_of_Sverdlovsk_Oblast.svg  
+RU-SMO    https://commons.wikimedia.org/wiki/File:Flag_of_Smolensk_Oblast.svg  
+RU-TAM    https://commons.wikimedia.org/wiki/File:Flag_of_Tambov_Oblast.svg  
+RU-TVE    https://commons.wikimedia.org/wiki/File:Flag_of_Tver_Oblast.svg  
+RU-TOM    https://commons.wikimedia.org/wiki/File:Flag_of_Tomsk_Oblast.svg  
+RU-TUL    https://commons.wikimedia.org/wiki/File:Flag_of_Tula_Oblast.svg  
+RU-TYU    https://commons.wikimedia.org/wiki/File:Flag_of_Tyumen_Oblast.svg  
+RU-ULY    https://commons.wikimedia.org/wiki/File:Flag_of_Ulyanovsk_Oblast.svg  
+RU-CHE    https://commons.wikimedia.org/wiki/File:Flag_of_Chelyabinsk_Oblast.svg
+RU-YAR    https://commons.wikimedia.org/wiki/File:Flag_of_Yaroslavl_Oblast.svg
+
+> REPUBLICS <
+RU-AD 	 https://commons.wikimedia.org/wiki/File:Flag_of_Adygea.svg
+RU-BA    https://commons.wikimedia.org/wiki/File:Flag_of_Bashkortostan.svg
+RU-BU    https://commons.wikimedia.org/wiki/File:Flag_of_Buryatia.svg
+RU-DA    https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg
+RU-IN    https://commons.wikimedia.org/wiki/File:Flag_of_Ingushetia.svg
+RU-KB    https://commons.wikimedia.org/wiki/File:Flag_of_Kabardino-Balkaria.svg  
+RU-KL    https://commons.wikimedia.org/wiki/File:Flag_of_Kalmykia.svg  
+RU-KC    https://commons.wikimedia.org/wiki/File:Flag_of_Karachay-Cherkessia.svg  
+RU-KR    https://commons.wikimedia.org/wiki/File:Flag_of_Karelia.svg 
+RU-ME    https://commons.wikimedia.org/wiki/File:Flag_of_Mari_El.svg  
+RU-MO    https://commons.wikimedia.org/wiki/File:Flag_of_Mordovia.svg  
+RU-AL    https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Republic.svg  
+RU-KO    https://commons.wikimedia.org/wiki/File:Flag_of_Komi.svg  
+RU-SA    https://commons.wikimedia.org/wiki/File:Flag_of_Sakha.svg  
+RU-SE    https://commons.wikimedia.org/wiki/File:Flag_of_North_Ossetia.svg  
+RU-TA    https://commons.wikimedia.org/wiki/File:Flag_of_Tatarstan.svg  
+RU-TY    https://commons.wikimedia.org/wiki/File:Flag_of_Tuva.svg  
+RU-UD    https://commons.wikimedia.org/wiki/File:Flag_of_Udmurtia.svg  
+RU-KK    https://commons.wikimedia.org/wiki/File:Flag_of_Khakassia.svg			CC BY-SA
+RU-CE    https://commons.wikimedia.org/wiki/File:Flag_of_Chechnya.svg  
+RU-CU    https://commons.wikimedia.org/wiki/File:Flag_of_Chuvashia.svg
+
+> KRAIS <
+RU-ALT    https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Krai.svg		CC BY-SA
+RU-ZAB    https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg
+RU-KAM    https://commons.wikimedia.org/wiki/File:Flag_of_Kamchatka_Krai.svg
+RU-KDA    https://commons.wikimedia.org/wiki/File:Flag_of_Krasnodar_Krai.svg
+RU-KYA    https://commons.wikimedia.org/wiki/File:Flag_of_Krasnoyarsk_Krai.svg
+RU-PER    https://commons.wikimedia.org/wiki/File:Flag_of_Perm_Krai.svg
+RU-PRI    https://commons.wikimedia.org/wiki/File:Flag_of_Primorsky_Krai_(large).svg
+RU-STA    https://commons.wikimedia.org/wiki/File:Flag_of_Stavropol_Krai.svg
+RU-KHA    https://commons.wikimedia.org/wiki/File:Flag_of_Khabarovsk_Krai.svg
+
+> AUTONOMOUS DISTRICTS <
+RU-NEN    https://commons.wikimedia.org/wiki/File:Flag_of_Nenets_Autonomous_District.svg
+RU-KHM    https://commons.wikimedia.org/wiki/File:Flag_of_Yugra.svg
+RU-CHU    https://commons.wikimedia.org/wiki/File:Flag_of_Chukotka.svg			CC-BY-SA
+RU-YAN    https://commons.wikimedia.org/wiki/File:Flag_of_Yamal-Nenets_Autonomous_District.svg
+
+> AUTONOMOUS CITIES <
+RU-SPE    https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Petersburg.svg
+RU-MOW    https://commons.wikimedia.org/wiki/File:Flag_of_Moscow,_Russia.svg
+
+> AUTONOMOUS REGIONS <
+RU-YEV    https://commons.wikimedia.org/wiki/File:Flag_of_the_Jewish_Autonomous_Oblast.svg
+
+[X] URLs working
+[X] Codes corresponding to sane names
+[X] Licenses are checked
+
+
+
+## PINGING ##
+https://commons.wikimedia.org/wiki/File:Flag_of_Adygea.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Bashkortostan.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Buryatia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Ingushetia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Amur_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Arkhangelsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Astrakhan_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Belgorod_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Bryansk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Amur_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Arkhangelsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Astrakhan_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Belgorod_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Bryansk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Vladimirskaya_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Volgograd_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Vologda_oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Voronezh_Oblast_(large).svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Ivanovo_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Irkutsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kaluga_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kemerovo_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kirov_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kostroma_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Krasnodar_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Leningrad_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Lipetsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Magadan_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Moscow.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Murmansk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Nizhny_Novgorod_Region.svg returned 
+https://commons.wikimedia.org/wiki/File:Flag_of_Novgorod_Oblast.svg returned 
+https://commons.wikimedia.org/wiki/File:Flag_of_Novosibirsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Omsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_-----_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Orenburg_Oblast.svg returned 
+https://commons.wikimedia.org/wiki/File:Flag_of_Penza_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Pskov_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Rostov_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Ryazan_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Samara_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Saratov_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Sakhalin_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Sverdlovsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Smolensk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Tambov_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Tver_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Tomsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Tula_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Tyumen_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Ulyanovsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Chelyabinsk_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Yaroslavl_Oblast.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Adygea.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Bashkortostan.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Buryatia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Ingushetia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kabardino-Balkaria.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Kalmykia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_-----.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_-----.svg returned 
+https://commons.wikimedia.org/wiki/File:Flag_of_Mari_El.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Mordovia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Republic.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Komi.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Sakha.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_-----.svg returned 
+https://commons.wikimedia.org/wiki/File:Flag_of_Tatarstan.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Tuva.svg returned 
+https://commons.wikimedia.org/wiki/File:Flag_of_Udmurtia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Khakassia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Chechnya.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Chuvashia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Krasnodar_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Krasnoyarsk_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Perm_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Primorsky_Krai_(large).svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Stavropol_Krai.svg returned 200
+https://en.wikipedia.org/wiki/File:Flag_of_Khabarovsk_Krai.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Nenets_Autonomous_District.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Yugra.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Chukotka.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Yamal-Nenets_Autonomous_District.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Petersburg.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_Moscow,_Russia.svg returned 200
+https://commons.wikimedia.org/wiki/File:Flag_of_the_Jewish_Autonomous_Oblast.svg returned 200
+
+
+
+## LICENSE INFORMATION; EXTRACTED AUTOMATICALLY WITH check_copyrights.py SCRIPT ##
+PD-RU    RU-AMU    https://commons.wikimedia.org/wiki/File:Flag_of_Amur_Oblast.svg
+PD-RU    RU-ARK    https://commons.wikimedia.org/wiki/File:Flag_of_Arkhangelsk_Oblast.svg
+PD-RU    RU-AST    https://commons.wikimedia.org/wiki/File:Flag_of_Astrakhan_Oblast.svg
+PD-RU    RU-BEL    https://commons.wikimedia.org/wiki/File:Flag_of_Belgorod_Oblast.svg
+PD-RU    RU-BRY    https://commons.wikimedia.org/wiki/File:Flag_of_Bryansk_Oblast.svg
+PD-RU    RU-VLA    https://commons.wikimedia.org/wiki/File:Flag_of_Vladimirskaya_Oblast.svg
+PD-RU    RU-VGG    https://commons.wikimedia.org/wiki/File:Flag_of_Volgograd_Oblast.svg
+PD-RU    RU-VLG    https://commons.wikimedia.org/wiki/File:Flag_of_Vologda_oblast.svg
+?????    RU-VOR    https://commons.wikimedia.org/wiki/File:Flag_of_Voronezh_Oblast_(large).svg
+PD-RU    RU-IVA    https://commons.wikimedia.org/wiki/File:Flag_of_Ivanovo_Oblast.svg
+PD-RU    RU-IRK    https://commons.wikimedia.org/wiki/File:Flag_of_Irkutsk_Oblast.svg
+PD-RU    RU-KGD    https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg
+PD-RU    RU-KLU    https://commons.wikimedia.org/wiki/File:Flag_of_Kaluga_Oblast.svg
+PD-RU    RU-KEM    https://commons.wikimedia.org/wiki/File:Flag_of_Kemerovo_Oblast.svg
+PD-RU    RU-KIR    https://commons.wikimedia.org/wiki/File:Flag_of_Kirov_Oblast.svg
+PD-RU    RU-KOS    https://commons.wikimedia.org/wiki/File:Flag_of_Kostroma_Oblast.svg  
+PD-RU    RU-KGN    https://commons.wikimedia.org/wiki/File:Flag_of_Kurgan_Oblast.svg  
+PD-RU    RU-KRS    https://commons.wikimedia.org/wiki/File:Flag_of_Kursk_Oblast_(large_fix).svg  
+PD-RU    RU-LEN    https://commons.wikimedia.org/wiki/File:Flag_of_Leningrad_Oblast.svg  
+PD-RU    RU-LIP    https://commons.wikimedia.org/wiki/File:Flag_of_Lipetsk_Oblast.svg  
+PD-RU    RU-MAG    https://commons.wikimedia.org/wiki/File:Flag_of_Magadan_Oblast.svg  
+PD-RU    RU-MOS    https://commons.wikimedia.org/wiki/File:Flag_of_Moscow.svg  
+PD-RU    RU-MUR    https://commons.wikimedia.org/wiki/File:Flag_of_Murmansk_Oblast.svg  
+BY-SA    RU-NIZ    https://commons.wikimedia.org/wiki/File:Flag_of_Nizhny_Novgorod_Region.svg
+PD-RU    RU-NGR    https://commons.wikimedia.org/wiki/File:Flag_of_Novgorod_Oblast.svg
+PD-RU    RU-NVS    https://commons.wikimedia.org/wiki/File:Flag_of_Novosibirsk_Oblast.svg  
+PD-RU    RU-OMS    https://commons.wikimedia.org/wiki/File:Flag_of_Omsk_Oblast.svg  
+PD-RU    RU-ORE    https://commons.wikimedia.org/wiki/File:Flag_of_Orenburg_Oblast.svg  
+PD-RU    RU-ORL    https://commons.wikimedia.org/wiki/File:Flag_of_Oryol_Oblast.svg  
+PD-RU    RU-PNZ    https://commons.wikimedia.org/wiki/File:Flag_of_Penza_Oblast.svg  
+PD-RU    RU-PSK    https://commons.wikimedia.org/wiki/File:Flag_of_Pskov_Oblast.svg  
+PD-RU    RU-ROS    https://commons.wikimedia.org/wiki/File:Flag_of_Rostov_Oblast.svg  
+PD-RU    RU-RYA    https://commons.wikimedia.org/wiki/File:Flag_of_Ryazan_Oblast.svg  
+PD-RU    RU-SAM    https://commons.wikimedia.org/wiki/File:Flag_of_Samara_Oblast.svg  
+PD-RU    RU-SAR    https://commons.wikimedia.org/wiki/File:Flag_of_Saratov_Oblast.svg  
+PD-RU    RU-SAK    https://commons.wikimedia.org/wiki/File:Flag_of_Sakhalin_Oblast.svg  
+PD-RU    RU-SVE    https://commons.wikimedia.org/wiki/File:Flag_of_Sverdlovsk_Oblast.svg  
+PD-RU    RU-SMO    https://commons.wikimedia.org/wiki/File:Flag_of_Smolensk_Oblast.svg  
+PD-RU    RU-TAM    https://commons.wikimedia.org/wiki/File:Flag_of_Tambov_Oblast.svg  
+PD-RU    RU-TVE    https://commons.wikimedia.org/wiki/File:Flag_of_Tver_Oblast.svg  
+PD-RU    RU-TOM    https://commons.wikimedia.org/wiki/File:Flag_of_Tomsk_Oblast.svg  
+PD-RU    RU-TUL    https://commons.wikimedia.org/wiki/File:Flag_of_Tula_Oblast.svg  
+PD-RU    RU-TYU    https://commons.wikimedia.org/wiki/File:Flag_of_Tyumen_Oblast.svg  
+PD-RU    RU-ULY    https://commons.wikimedia.org/wiki/File:Flag_of_Ulyanovsk_Oblast.svg  
+PD-RU    RU-CHE    https://commons.wikimedia.org/wiki/File:Flag_of_Chelyabinsk_Oblast.svg
+PD-RU    RU-YAR    https://commons.wikimedia.org/wiki/File:Flag_of_Yaroslavl_Oblast.svg
+
+PD-RU    RU-AD    https://commons.wikimedia.org/wiki/File:Flag_of_Adygea.svg
+PD-RU    RU-BA    https://commons.wikimedia.org/wiki/File:Flag_of_Bashkortostan.svg
+PD-RU    RU-BU    https://commons.wikimedia.org/wiki/File:Flag_of_Buryatia.svg
+PD-RU    RU-DA    https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg
+PD-RU    RU-IN    https://commons.wikimedia.org/wiki/File:Flag_of_Ingushetia.svg
+PD-RU    RU-KB    https://commons.wikimedia.org/wiki/File:Flag_of_Kabardino-Balkaria.svg
+PD-RU    RU-KL    https://commons.wikimedia.org/wiki/File:Flag_of_Kalmykia.svg
+PD-RU    RU-KC    https://commons.wikimedia.org/wiki/File:Flag_of_Karachay-Cherkessia.svg
+PD-RU    RU-KR    https://commons.wikimedia.org/wiki/File:Flag_of_Karelia.svg
+PD-RU    RU-ME    https://commons.wikimedia.org/wiki/File:Flag_of_Mari_El.svg
+PD-RU    RU-MO    https://commons.wikimedia.org/wiki/File:Flag_of_Mordovia.svg
+PD-RU    RU-AL    https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Republic.svg
+PD-RU    RU-KO    https://commons.wikimedia.org/wiki/File:Flag_of_Komi.svg
+PD-RU    RU-SA    https://commons.wikimedia.org/wiki/File:Flag_of_Sakha.svg
+PD-RU    RU-SE    https://commons.wikimedia.org/wiki/File:Flag_of_North_Ossetia.svg
+PD-RU    RU-TA    https://commons.wikimedia.org/wiki/File:Flag_of_Tatarstan.svg
+PD-RU    RU-TY    https://commons.wikimedia.org/wiki/File:Flag_of_Tuva.svg
+PD-RU    RU-UD    https://commons.wikimedia.org/wiki/File:Flag_of_Udmurtia.svg
+BY-SA    RU-KK    https://commons.wikimedia.org/wiki/File:Flag_of_Khakassia.svg
+PD-RU    RU-CE    https://commons.wikimedia.org/wiki/File:Flag_of_Chechnya.svg
+PD-RU    RU-CU    https://commons.wikimedia.org/wiki/File:Flag_of_Chuvashia.svg
+
+BY-SA    RU-ALT    https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Krai.svg
+PD-RU    RU-ZAB    https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg
+PD-RU    RU-KAM    https://commons.wikimedia.org/wiki/File:Flag_of_Kamchatka_Krai.svg
+PD-RU    RU-KDA    https://commons.wikimedia.org/wiki/File:Flag_of_Krasnodar_Krai.svg
+PD-RU    RU-KYA    https://commons.wikimedia.org/wiki/File:Flag_of_Krasnoyarsk_Krai.svg
+PD-RU    RU-PER    https://commons.wikimedia.org/wiki/File:Flag_of_Perm_Krai.svg
+PD-RU    RU-PRI    https://commons.wikimedia.org/wiki/File:Flag_of_Primorsky_Krai_(large).svg
+PD-RU    RU-STA    https://commons.wikimedia.org/wiki/File:Flag_of_Stavropol_Krai.svg
+PD-RU    RU-KHA    https://en.wikipedia.org/wiki/File:Flag_of_Khabarovsk_Krai.svg
+
+PD-RU    RU-NEN    https://commons.wikimedia.org/wiki/File:Flag_of_Nenets_Autonomous_District.svg
+PD-RU    RU-KHM    https://commons.wikimedia.org/wiki/File:Flag_of_Yugra.svg
+BY-SA    RU-CHU    https://commons.wikimedia.org/wiki/File:Flag_of_Chukotka.svg
+PD-RU    RU-YAN    https://commons.wikimedia.org/wiki/File:Flag_of_Yamal-Nenets_Autonomous_District.svg
+
+PD-RU    RU-SPE    https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Petersburg.svg
+PD-RU    RU-MOW    https://commons.wikimedia.org/wiki/File:Flag_of_Moscow,_Russia.svg
+
+PD-RU    RU-YEV    https://commons.wikimedia.org/wiki/File:Flag_of_the_Jewish_Autonomous_Oblast.svg
