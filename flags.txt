@@ -1,4 +1,11 @@
-Drafts
+𜸚𜸟𜸤𜸜  𜸜    𜸞𜸠𜸥𜸜 𜸜𜸛𜸟𜸥  𜸛𜸟𜸤𜸛𜸟𜸤𜸚𜸟𜸤𜸛𜸟𜸥𜸞𜸠𜸥𜸚𜸟𜸤  𜸞𜸠𜸥  𜸚𜸟𜸤𜸝𜸡𜸦
+𜸨𜸟𜸶𜸩  𜸩     𜸩 𜸨𜸟𜸶𜸨𜸟   𜸩 𜸩𜸨𜸟𜸷𜸨𜸟𜸶𜸨𜸟  𜸩 𜸾𜸟𜸤   𜸩   𜸨𜸟𜸶𜸩𜸰𜸩
+𜸼 𜸼𜸽𜸟𜸥𜸽𜸟𜸥   𜸼 𜸼 𜸼𜸽𜸟𜸥  𜸽𜸟𜹃𜸼 𜸼𜸼 𜸼𜸼   𜸼 𜸾𜸟𜹃  𜸞𜹀𜸥  𜸼 𜸼𜸼 𜸼
+𜸚𜸟𜸤𜸜 𜸜𜸛𜸟𜸤𜸛𜸟𜸤𜸛𜸟𜸥𜸝𜸢𜸜𜸞𜸠𜸥𜸜  𜸜 𜸜  𜸜 𜸜𜸚𜸟𜸤𜸛𜸟𜸤𜸜 𜸜𜸞𜸠𜸥𜸝𜸢𜸜𜸚𜸟𜸤  𜸚𜸟𜸤𜸝𜸢𜸜
+𜸩  𜸩 𜸩𜸨𜸟𜸷𜸨𜸟𜸷𜸨𜸟 𜸩𜸫𜸹 𜸩 𜸩  𜸫𜸳𜸻  𜸩𜸱𜸩𜸩 𜸩𜸨𜸟𜸷𜸨𜸯𜸸 𜸩 𜸩𜸫𜸹𜸩 𜸧  𜸩 𜸩𜸩𜸫𜸹
+𜸾𜸟𜹃𜸾𜸟𜹃𜸼 𜸼𜸼 𜸼𜸽𜸟𜸥𜸼 𜸼 𜸼 𜸽𜸟𜸥 𜸼   𜸿𜹂𜹆𜸾𜸟𜹃𜸼 𜸼𜸼 𜸼𜸞𜹀𜸥𜸼 𜸼𜸾𜸟𜹄  𜸾𜸟𜹃𜸼 𜸼
+
+## SOURCES ##
 
 List of flags: 
 https://en.wikipedia.org/wiki/List_of_country_subdivision_flags_in_Europe#Russia
@@ -8,6 +15,8 @@ https://www.iso.org/obp/ui/#iso:code:3166:RU
 
 Another (more readable) source of region codes (Russian Wikipedia):
 https://ru.wikipedia.org/wiki/ISO_3166-2:RU
+
+
 
 𜸛𜸟𜸤𜸜 𜸜  𜸛𜸟𜸤𜸛𜸟𜸥𜸚𜸟𜸤𜸞𜸠𜸥𜸚𜸟𜸤𜸝𜸢𜸜
 𜸨𜸟𜸷𜸫𜸳𜸻  𜸨𜸟𜸷𜸨𜸟 𜸩 𜸧 𜸩 𜸩 𜸩𜸩𜸫𜸹
@@ -22,7 +31,7 @@ RU-BRY    https://commons.wikimedia.org/wiki/File:Flag_of_Bryansk_Oblast.svg
 RU-VLA    https://commons.wikimedia.org/wiki/File:Flag_of_Vladimirskaya_Oblast.svg
 RU-VGG    https://commons.wikimedia.org/wiki/File:Flag_of_Volgograd_Oblast.svg
 RU-VLG    https://commons.wikimedia.org/wiki/File:Flag_of_Vologda_oblast.svg
-RU-VOR    https://commons.wikimedia.org/wiki/File:Flag_of_Voronezh_Oblast_(large).svg	?????
+RU-VOR    https://commons.wikimedia.org/wiki/File:Flag_of_Voronezh_Oblast.svg
 RU-IVA    https://commons.wikimedia.org/wiki/File:Flag_of_Ivanovo_Oblast.svg
 RU-IRK    https://commons.wikimedia.org/wiki/File:Flag_of_Irkutsk_Oblast.svg
 RU-KGD    https://commons.wikimedia.org/wiki/File:Flag_of_Kaliningrad_Oblast.svg
@@ -84,7 +93,7 @@ RU-KK    https://commons.wikimedia.org/wiki/File:Flag_of_Khakassia.svg			CC BY-S
 RU-CE    https://commons.wikimedia.org/wiki/File:Flag_of_Chechnya.svg  
 RU-CU    https://commons.wikimedia.org/wiki/File:Flag_of_Chuvashia.svg
 
-> KRAIS <
+> ADMINISTRATIVE TERRITORIES (KRAIS) <
 RU-ALT    https://commons.wikimedia.org/wiki/File:Flag_of_Altai_Krai.svg		CC BY-SA
 RU-ZAB    https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg
 RU-KAM    https://commons.wikimedia.org/wiki/File:Flag_of_Kamchatka_Krai.svg
@@ -113,6 +122,10 @@ RU-YEV    https://commons.wikimedia.org/wiki/File:Flag_of_the_Jewish_Autonomous_
 [X] Licenses are checked
 
 
+
+𜸝𜸡𜸦𜸞𜸠𜸥𜸚𜸟𜸤𜸚𜸟𜸤  𜸛𜸟𜸤𜸛𜸟𜸥𜸚𜸟𜸤𜸛𜸟𜸥𜸚𜸟𜸤𜸛𜸟𜸤𜸚𜸟𜸤𜸜 𜸜  𜸛𜸟𜸤𜸛𜸟𜸤𜸚𜸟𜸤𜸛𜸟𜸥𜸞𜸠𜸥𜸚𜸟𜸤
+𜸩𜸰𜸩 𜸩 𜸾𜸟𜸤𜸩    𜸨𜸟𜸷𜸨𜸟 𜸾𜸟𜸤𜸨𜸟 𜸨𜸟𜸶𜸨𜸟𜸷𜸩  𜸨𜸟𜸶  𜸩 𜸩𜸨𜸟𜸷𜸨𜸟𜸶𜸨𜸟  𜸩 𜸾𜸟𜸤
+𜸼 𜸼𜸞𜹀𜸥𜸾𜸟𜹃𜸾𜸟𜹃  𜸼 𜸼𜸽𜸟𜸥𜸾𜸟𜹃𜸽𜸟𜸥𜸼 𜸼𜸼 𜸼𜸾𜸟𜹃𜸼 𜸼  𜸽𜸟𜹃𜸼 𜸼𜸼 𜸼𜸼   𜸼 𜸾𜸟𜹃
 
 ## PINGING ##
 https://commons.wikimedia.org/wiki/File:Flag_of_Adygea.svg returned 200
